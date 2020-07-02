@@ -1,2 +1,2 @@
 # jumpjump
-own docker registry
+docker registry
